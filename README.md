@@ -3,9 +3,11 @@
 This project demonstrates how to perform data cleaning using MySQL.The dataset contains company layoff information, including details about location, industry, and funding. The main objective of this project is to clean and prepare the data for further analysis by ensuring consistency, accuracy, and completeness.
 
 **Tools**
+
 MySQL
 
 **Data Understanding**
+
 The dataset contains the following columns:
 - company: name of the company
 - location: Company's location or headquarters
@@ -17,6 +19,7 @@ The dataset contains the following columns:
 - funds_raised_millions: total funds raised by the company (in millions)
 
 **Data Cleaning Steps**
+
 The following steps were performed using MySQL:
 - Remove duplicates
   Identified and deleted duplicate records to ensure data accuracy and avoid redundancy
