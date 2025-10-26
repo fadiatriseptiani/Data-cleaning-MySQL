@@ -29,6 +29,13 @@ The following steps were performed using MySQL:
 
 After cleaning, the dataset became free from duplicates and inconsistent entries, properly formatted, and ready for further analysis or visualization.
 
+**Credits**
 
+This project was built by following the tutorial from [Alex The Analyst on YouTube](https://www.youtube.com/@AlexTheAnalyst) as part of my learning journey in data analytics.  
+The project helped me understand data cleaning and modeling.
+
+Fadia Tri Septiani
+
+triseptianifadia@gmail.com
 
 
